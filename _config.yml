@@ -1,3 +1,7 @@
+name: Codysed
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.5430108
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.5430108
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.647801
-  brandStrength: 0.7637489
-  rhythmicContrast: 0.9159046
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+  brandStrength: 0.7637489
   lightness: 0.5821544
-layout_spectrum: 0.8785198
-name: Codysed
+  saturation: 0.647801
+  rhythmicContrast: 0.9159046
+purpose: []
