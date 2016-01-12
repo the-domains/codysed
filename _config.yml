@@ -1,40 +1,40 @@
-name: Codysed
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.5430108
+layout_spectrum: 0.1057348
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
+purpose: []
 color:
+  saturation: 0.6875
+  brandStrength: 1
+  lightness: 0.9408602
   brandColors:
     - '#77aadd'
     - '#ffffff'
     - '#030a03'
     - '#346688'
     - '#e69968'
-  brandStrength: 1
-  lightness: 0.5625
-  saturation: 0.6875
   rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.5430108
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Codysed
