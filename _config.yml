@@ -1,8 +1,18 @@
-layout_spectrum: 0.8785198
-typography_spectrum: 0.7519271
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.5430108
 color:
   saturation: 0.647801
-  lightness: 0.5821544
   brandStrength: 0.7637489
   rhythmicContrast: 0.9159046
   brandColors:
@@ -11,4 +21,6 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+  lightness: 0.5821544
+layout_spectrum: 0.8785198
 name: Codysed
