@@ -1,0 +1,14 @@
+layout_spectrum: 0.8785198
+typography_spectrum: 0.7519271
+color:
+  saturation: 0.647801
+  lightness: 0.5821544
+  brandStrength: 0.7637489
+  rhythmicContrast: 0.9159046
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Codysed
