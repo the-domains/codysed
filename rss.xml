@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Codysed]]></title>
         <description><![CDATA[Codysed]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/codysed/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 05:28:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jan 2016 05:29:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/codysed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de6337a6-203d-4822-9771-95b5a7f246a9.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f43ea5bf-b204-4ac5-9ff0-9069f7625955.png</link>
+            <guid isPermaLink="false">530f2552-3e36-4edb-8aa5-d03e9060279f</guid>
+            <pubDate>Wed, 13 Jan 2016 05:28:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[End of Winter]]></title>
             <description><![CDATA[<article><h1>End of Winter</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/024283b0-b613-4230-96ae-9f03f433a718.png"></article>]]></description>
-            <link>undefinedend-of-winter/index.html</link>
+            <link>https://thegrid.ai/codysed/end-of-winter/index.html</link>
             <guid isPermaLink="false">1f8538aa-79b5-42b1-a338-5f5843e4e6e6</guid>
             <pubDate>Wed, 13 Jan 2016 05:28:49 GMT</pubDate>
         </item>
